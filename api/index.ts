@@ -12,7 +12,7 @@ const html = `
   <head></head>
   <body>
     <script>
-    localStorage.setItem("apiUrl", ${apiUrl})
+    localStorage.setItem("apiUrl", "${apiUrl}")
     </script>
   </body>
 </html>
